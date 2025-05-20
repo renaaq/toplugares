@@ -1,0 +1,36 @@
+header {
+    font-size: 3em;
+    text-align: center;
+    color: #130f05;
+    background-color: #d9d9d9;
+}
+
+p {
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: #333;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #969696;
+;}
+
+nav {
+    background-color: #beb9b9;
+    display: flex;
+    
+}
+
+.lugares {
+    display: flex;
+    gap: 20px;
+}
+
+div {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+}
